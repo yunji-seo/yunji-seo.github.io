@@ -203,6 +203,7 @@ exclude:
 
   - _bibliography
   - _pages/publications.md
+  - _posts/2023-07-12-post-bibliography.md
 
 keep_files:
   - CNAME
