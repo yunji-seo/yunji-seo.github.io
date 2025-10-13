@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: a post with custom blockquotes
 date: 2023-05-12 15:53:00-0400
@@ -126,6 +126,6 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > This is a danger zone, and thus should
 > be used carefully
-{: .block-danger }
+{: .block-danger } -->
 
 <!-- prettier-ignore-end -->
