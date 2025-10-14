@@ -38,6 +38,3 @@ __Recognition__: The project was recognized for its in-depth analysis and practi
 <div class="caption">
     <a href="{{ '/assets/pdf/proj/1-1.pdf' | relative_url }}" target="_blank">View the Final Panel</a>
 </div>
-```
-
-{% endraw %}
