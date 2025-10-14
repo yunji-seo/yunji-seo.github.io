@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Department of Urban Planning and Engineering • Yonsei University • Seoul, South Korea
+subtitle: <a href="#">Department of Urban Planning and Engineering</a> • <a href="#">Yonsei University</a> • <a href="#">Seoul, South Korea</a>
 
 profile:
   align: right
