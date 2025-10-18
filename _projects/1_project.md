@@ -11,6 +11,7 @@ related_publications: false
 ### __Overview__
 
 This project identified an underutilized site within Yonsei University's International Campus and developed a comprehensive strategy for its revitalization. The primary goal was to transform the neglected space into a vibrant area that enhances student life and community engagement. The final proposal was presented on a professionally designed panel created with CAD, Photoshop, and Illustrator.
+<br>
 
 ### __Process__
 
@@ -22,14 +23,6 @@ __Concept Development__: Brainstormed and developed three distinct activation co
 
 __Design & Visualization__: Selected the most viable concept and proceeded with detailed spatial design using CAD. Utilized Adobe Photoshop and Illustrator to create compelling architectural renderings, diagrams, and a professional-grade presentation panel to effectively communicate the final proposal.
 
-### __Results__
-
-__Final Proposal__: Delivered a comprehensive master plan for a multi-purpose cultural complex designed to foster creativity and community engagement. The proposal projected a 50% increase in the utilization of the target site and surrounding areas.
-
-__Key Deliverable__: Produced a high-quality presentation panel that visually and textually articulated the entire project, from initial analysis to the final design solution and its expected benefits.
-
-__Recognition__: The project was recognized for its in-depth analysis and practical, student-centered design approach, receiving positive feedback from professors and peers for its creativity and professional execution.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/proj/1-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -38,3 +31,12 @@ __Recognition__: The project was recognized for its in-depth analysis and practi
 <div class="caption">
     <a href="{{ '/assets/pdf/proj/1-1.pdf' | relative_url }}" target="_blank">View the Final Panel</a>
 </div>
+<br>
+
+### __Results__
+
+__Final Proposal__: Delivered a comprehensive master plan for a multi-purpose cultural complex designed to foster creativity and community engagement. The proposal projected a 50% increase in the utilization of the target site and surrounding areas.
+
+__Key Deliverable__: Produced a high-quality presentation panel that visually and textually articulated the entire project, from initial analysis to the final design solution and its expected benefits.
+
+__Recognition__: The project was recognized for its in-depth analysis and practical, student-centered design approach, receiving positive feedback from professors and peers for its creativity and professional execution.
