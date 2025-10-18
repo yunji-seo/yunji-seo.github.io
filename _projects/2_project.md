@@ -3,9 +3,10 @@ layout: page
 title: A Proposal for New Late-Night Bus Routes in Seoul Based on Taxi O/D and Service Shadow Area Analysis
 description: Fall 2022
 img: assets/img/proj/2-1.png
-importance: 2
+importance: 1
 category: mobility
 related_publications: false
+giscus_comments: true
 ---
 
 ### __Overview__

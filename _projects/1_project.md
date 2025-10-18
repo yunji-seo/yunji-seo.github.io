@@ -6,6 +6,7 @@ img: assets/img/proj/1-1.png
 importance: 1
 category: design
 related_publications: false
+giscus_comments: true
 ---
 
 ### __Overview__
