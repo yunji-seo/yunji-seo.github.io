@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="#">Department of Urban Planning and Engineering</a> • <a href="#">Yonsei University</a> • <a href="#">Seoul, South Korea</a>
+subtitle: <a href="#"><i>Department of Urban Planning and Engineering</i></a> • <a href="#"><i>Yonsei University</i></a> • <a href="#"><i>Seoul, South Korea</i></a>
 
 profile:
   align: right
