@@ -28,6 +28,11 @@ ninja.data = [{
           description: "Fall 2022",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-a-proposal-for-new-late-night-bus-routes-in-seoul-based-on-taxi-o-d-and-service-shadow-area-analysis",
+          title: 'A Proposal for New Late-Night Bus Routes in Seoul Based on Taxi O/D...',
+          description: "Fall 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
