@@ -70,11 +70,14 @@ __Route Proposal__: Based on the final suitability map, which highlighted the mo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj/2-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/proj/2-5-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj/2-5-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    [Fig. 21] Proposed Additional Late-Night Bus Routes in Seoul (As of Dec. 2022)
+    Proposed Additional Late-Night Bus Routes in Seoul, Shown with Existing Service Areas (left) and with the Addition of the Existing Road Network (right) (As of Dec. 2022)
 </div>
 <br>
 
