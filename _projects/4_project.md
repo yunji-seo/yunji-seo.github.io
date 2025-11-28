@@ -24,6 +24,7 @@ The Dunchon Jugong project involved rebuilding a 1979 apartment complex into a n
 ### __Process__
 
 __Reconstructing the Timeline__
+
 We organized the event timeline from 2003 to 2023, focusing on key stages such as:
 - Pre-construction disputes including asbestos handling and naming controversies (pages 3–4).
 - The 2020 revised cost contract and disagreements over its validity.
@@ -32,9 +33,11 @@ We organized the event timeline from 2003 to 2023, focusing on key stages such a
 <br>
 
 __Policy and Financial Analysis__
+
 We examined how the government’s presale price ceiling shaped the conflict. The mandated price, which was significantly lower than the association’s expected sales price, caused a sharp decline in projected revenue. This made the association unwilling to accept the 2020 cost increase, which in turn led the contractors to suspend construction (pages 4–7).
 
 We also assessed construction cost inflation, including the surge in steel and ready-mix concrete prices, which contributed to subcontractors demanding additional compensation (page 6).
+<br>
 
 __Stakeholder Perspectives__
 
@@ -42,8 +45,10 @@ We compared arguments from:
 - __The association__, which argued the 2020 contract was invalid and that construction costs were overstated (pages 11–12).
 - __The contractors__, who claimed the contract was legally approved and that they had already funded over 1.6 trillion KRW in construction without payment (page 12).
 - __The Seoul Metropolitan Government__, which attempted to mediate and stabilize the project due to its significance for citywide housing supply (page 12).
+<br>
 
 __Comparative Case Review__
+
 We reviewed two additional ongoing cases — Gongdeok District 1 and Bangbae Sinsung Villa — to understand how construction cost inflation is affecting smaller redevelopment projects as well (pages 15–16).
 <br>
 
@@ -56,6 +61,7 @@ __Key Findings__
 - Citywide housing supply was at risk, since the project represented roughly 30 percent of Seoul’s annual supply at the time (page 15).
 
 __Resolution and Aftermath__
+
 After 105 days of shutdown, the parties reached an agreement in July 2022 with Seoul’s mediation. Construction resumed and the project eventually completed its sales phase, including a secondary round that led to full sell-out due to changing national housing regulations (page 9–10).
 However, disputes over the remaining unverified construction costs continue, indicating that the conflict is not fully resolved (page 10–11).
 <br>
@@ -64,3 +70,7 @@ However, disputes over the remaining unverified construction costs continue, ind
 
 This project helped our team understand the complexity of large-scale redevelopment in Korea. The Dunchon Jugong case shows how national housing policy, financial structures and governance processes can directly influence project timelines, resident security and citywide housing supply. It also highlights the importance of transparent cost verification and stable policy frameworks for future redevelopment efforts.
 <br>
+
+<div class="caption">
+    <a href="{{ '/assets/pdf/proj/4-1.pdf' | relative_url }}" target="_blank">View the Final Report</a>
+</div>
