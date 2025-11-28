@@ -3,7 +3,7 @@ layout: page
 title: Understanding the Dunchon Jugong Construction Conflict
 description: Spring 2023
 img: assets/img/proj/4-1.png
-importance: 1
+importance: 2
 category: issues
 related_publications: false
 giscus_comments: true
