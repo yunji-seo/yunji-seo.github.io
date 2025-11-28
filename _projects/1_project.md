@@ -9,6 +9,8 @@ related_publications: false
 giscus_comments: true
 ---
 
+_This project was completed as part of "Smart Urban Design Software Tools" course at Yonsei University._
+
 ### __Overview__
 
 This project identified an underutilized site within Yonsei University's International Campus and developed a comprehensive strategy for its revitalization. The primary goal was to transform the neglected space into a vibrant area that enhances student life and community engagement. The final proposal was presented on a professionally designed panel created with CAD, Photoshop, and Illustrator.

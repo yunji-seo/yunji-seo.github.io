@@ -9,6 +9,8 @@ related_publications: false
 giscus_comments: true
 ---
 
+_This project was completed as part of "Urban Spatial Information Analysis" course at Yonsei University._
+
 ### __Overview__
 
 In the wake of the COVID-19 pandemic, Seoul faced a significant public transportation challenge: a surge in late-night travel demand coupled with a reduced supply of buses and taxis, leading to a "taxi crisis". This project aimed to address this gap by proposing new, data-driven late-night "Owl Bus" routes. By conducting a comprehensive suitability analysis using diverse geospatial and transportation data, the project identified key underserved "shadow areas". The final output provides specific, actionable route proposals designed to enhance late-night mobility and alleviate transportation bottlenecks for the citizens of Seoul.
