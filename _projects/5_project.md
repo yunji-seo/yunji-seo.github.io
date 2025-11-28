@@ -158,7 +158,7 @@ __3. Operational Feasibility__
 - No additional zone centroids were needed, complying with TOVA restrictions (page 4).
 <br>
 
-### _Results__
+### __Results__
 
 __Final Output__
 

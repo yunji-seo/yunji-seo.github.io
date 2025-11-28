@@ -3,7 +3,7 @@ layout: page
 title: Reflections on “What’s Wrong with Apartments?”: Rethinking Better Urban Environments
 description: Spring 2023
 img: assets/img/proj/3-1.png
-importance: 1
+importance: 2
 category: issues
 related_publications: false
 giscus_comments: true
