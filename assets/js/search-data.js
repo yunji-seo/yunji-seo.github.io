@@ -33,6 +33,16 @@ ninja.data = [{
           description: "Fall 2022",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-understanding-the-dunchon-jugong-construction-conflict",
+          title: 'Understanding the Dunchon Jugong Construction Conflict',
+          description: "Spring 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
