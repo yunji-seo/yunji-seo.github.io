@@ -58,6 +58,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-housing-complex-case-study-amp-model-making",
+          title: 'Housing Complex Case Study &amp;amp; Model Making',
+          description: "Fall 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
