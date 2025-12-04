@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bad Place Vlog: Evaluating the Sewoon Elevated Walkway
+title: "Bad Place Vlog: Evaluating the Sewoon Elevated Walkway"
 description: Fall 2023
 img: assets/img/proj/7-1.png
 importance: 2

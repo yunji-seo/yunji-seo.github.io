@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proposal for New Campus Shuttle Routes Based on O/D Analysis: A Case Study of Yonsei University
+title: "Proposal for New Campus Shuttle Routes Based on O/D Analysis: A Case Study of Yonsei University"
 description: Spring 2023
 img: assets/img/proj/5-1.png
 importance: 2

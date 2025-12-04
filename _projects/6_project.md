@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Environmental Pollution from Mine Tailings in Abandoned Mines: A Korea-Centered Assessment
+title: "Environmental Pollution from Mine Tailings in Abandoned Mines: A Korea-Centered Assessment"
 description: Spring 2023
 img: assets/img/proj/6-1.png
 importance: 3

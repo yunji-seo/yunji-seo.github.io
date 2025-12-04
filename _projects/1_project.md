@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus
+title: "Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus"
 description: Fall 2022
 img: assets/img/proj/1-1.png
 importance: 1
