@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
+        },{id: "projects-han-river-evergreen-city-reimagining-seobinggo-as-a-green-landmark",
+          title: 'Han River Evergreen City: Reimagining Seobinggo as a Green Landmark',
+          description: "Fall 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
           section: "Projects",handler: () => {
