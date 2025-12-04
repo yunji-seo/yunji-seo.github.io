@@ -33,9 +33,9 @@ ninja.data = [{
           description: "Fall 2022",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-reflections-on-what-s-wrong-with-apartments-rethinking-better-urban-environments",
+          title: 'Reflections on “What’s Wrong with Apartments?”: Rethinking Better Urban Environments',
+          description: "Spring 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-understanding-the-dunchon-jugong-construction-conflict",
@@ -43,19 +43,19 @@ ninja.data = [{
           description: "Spring 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-proposal-for-new-campus-shuttle-routes-based-on-o-d-analysis-a-case-study-of-yonsei-university",
+          title: 'Proposal for New Campus Shuttle Routes Based on O/D Analysis: A Case Study...',
+          description: "Spring 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-environmental-pollution-from-mine-tailings-in-abandoned-mines-a-korea-centered-assessment",
+          title: 'Environmental Pollution from Mine Tailings in Abandoned Mines: A Korea-Centered Assessment',
+          description: "Spring 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-bad-place-vlog-evaluating-the-sewoon-elevated-walkway",
+          title: 'Bad Place Vlog: Evaluating the Sewoon Elevated Walkway',
+          description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-housing-complex-case-study-amp-model-making",
