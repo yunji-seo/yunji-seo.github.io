@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mobility Analysis and Planning"
+title: "Mobility Solutions for the Elderly: Integrating Ride-sharing & Car-sharing"
 description: Fall 2023
 img: assets/img/proj/13-1.png
 importance: 4
