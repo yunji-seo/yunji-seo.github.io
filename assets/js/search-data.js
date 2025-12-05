@@ -48,6 +48,11 @@ ninja.data = [{
           description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14_project/";
+            },},{id: "projects-mobility-data-mining-trajectory-segmentation-and-trip-purpose-inference",
+          title: 'Mobility Data Mining: Trajectory Segmentation and Trip Purpose Inference',
+          description: "Spring 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_project/";
             },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
