@@ -38,8 +38,8 @@ ninja.data = [{
           description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
-            },},{id: "projects-mobility-analysis-and-planning",
-          title: 'Mobility Analysis and Planning',
+            },},{id: "projects-mobility-solutions-for-the-elderly-integrating-ride-sharing-amp-car-sharing",
+          title: 'Mobility Solutions for the Elderly: Integrating Ride-sharing &amp;amp; Car-sharing',
           description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
