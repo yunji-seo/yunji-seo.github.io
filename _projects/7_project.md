@@ -11,6 +11,20 @@ giscus_comments: true
 
 _This project was completed as part of "The Theory of Urban Design" course at Yonsei University._
 
+### __Project Video__
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://youtu.be/gVY1PEC_7t0" allowfullscreen></iframe>
+        </div>
+        </div>
+</div>
+<div class="caption">
+    Full Video Youtube Link
+</div>
+<br>
+
 ### __Overview__
 
 Our team produced a short documentary-style video titled Bad Place Vlog: Sewoon Elevated Walkway to analyze why the elevated pedestrian network connecting the Sewoon Megacomplex has struggled to attract users. Using field observation, archival footage, interviews with merchants, and data visualization, we examined the walkway’s urban design context, its intended purpose, and the reasons behind its limited success. The project combined spatial analysis with on-site documentation to better understand how urban design decisions shape human behavior and place performance.
@@ -100,8 +114,3 @@ The walkway offers impressive views of the city, but design and contextual misal
 Our video highlights that successful urban places require more than physical connectivity—they need programs, visibility, social interaction, and realistic assessments of behavioral patterns.
 Future improvements must integrate scientific evaluation, user research and merchant feedback to create a walkway that people naturally choose to use.
 <br>
-
-<div class="video-container">
-  <iframe src="https://youtu.be/gVY1PEC_7t0" 
-          frameborder="0" allowfullscreen></iframe>
-</div>
