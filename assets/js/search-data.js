@@ -43,6 +43,11 @@ ninja.data = [{
           description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
+            },},{id: "projects-autonomous-drt-shuttle-service-a-mobility-solution-for-commuting-yonsei-students",
+          title: 'Autonomous DRT Shuttle Service: A Mobility Solution for Commuting Yonsei Students',
+          description: "Fall 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
             },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
