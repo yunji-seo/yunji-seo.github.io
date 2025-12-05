@@ -33,6 +33,11 @@ ninja.data = [{
           description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-evaluation-of-public-housing-policy-for-the-elderly-focusing-on-the-right-to-move",
+          title: 'Evaluation of Public Housing Policy for the Elderly: Focusing on the Right to...',
+          description: "Fall 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
