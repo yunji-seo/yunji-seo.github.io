@@ -63,6 +63,11 @@ ninja.data = [{
           description: "Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-tactical-urbanism-revitalizing-underused-campus-spaces",
+          title: 'Tactical Urbanism: Revitalizing Underused Campus Spaces',
+          description: "Fall 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-housing-complex-case-study-amp-model-making",
           title: 'Housing Complex Case Study &amp;amp; Model Making',
           description: "Fall 2023",
