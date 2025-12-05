@@ -9,7 +9,7 @@ related_publications: false
 giscus_comments: true
 ---
 
-_This project was completed as part of "Theory of Urban Design" course at Yonsei University._
+_This project was completed as part of "The Theory of Urban Design" course at Yonsei University._
 
 ### __Overview__
 
@@ -106,3 +106,7 @@ __2. Micro-Interventions for Utility__
 This proposal aims to shift the space's function from **"Transit"** to **"Stay."**
 
 By introducing iconic furniture, greenery, and amenities like tables and water fountains, the barren square is reimagined as the **"O-S-D Plaza"**—a healing spot for engineering students, a picnic area for visitors, and a new landmark for the campus. This project demonstrates how small-scale tactical interventions can significantly improve the quality of campus life.
+
+<div class="caption">
+    <a href="{{ '/assets/pdf/proj/8-1.pdf' | relative_url }}" target="_blank">View the Final Presentation</a>
+</div>

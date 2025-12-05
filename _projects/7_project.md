@@ -9,7 +9,7 @@ related_publications: false
 giscus_comments: true
 ---
 
-_This project was completed as part of "Theory of Urban Design" course at Yonsei University._
+_This project was completed as part of "The Theory of Urban Design" course at Yonsei University._
 
 ### __Overview__
 
