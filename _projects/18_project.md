@@ -18,15 +18,6 @@ San Francisco is a city of innovation, yet it faces a severe housing crisis that
 
 ### __Problem: The Mismatch in Housing__
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj/18-2.jpg" title="Supply vs Demand Gap" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    [Fig. 1] The stark gap between disability prevalence (26%) and accessible housing stock (<6%) in the U.S.
-</div>
-
 Historically, housing for people with disabilities has been synonymous with exclusion, either through segregation in institutional facilities or physical inaccessibility in the general market.
 * **Physical Exclusion:** Lack of elevators, accessible bathrooms, and sensory-friendly features.
 * **Structural Exclusion:** Complex application systems and unaffordable rents.
