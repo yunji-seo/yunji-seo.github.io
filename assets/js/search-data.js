@@ -58,6 +58,11 @@ ninja.data = [{
           description: "Fall 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_project/";
+            },},{id: "projects-enhancing-elderly-mobility-drt-suitability-analysis-using-ipa-matrix",
+          title: 'Enhancing Elderly Mobility: DRT Suitability Analysis using IPA Matrix',
+          description: "Fall 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/17_project/";
             },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
