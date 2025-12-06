@@ -16,6 +16,18 @@ _This project was completed as part of "Urban Engineering Capstone Design" cours
 As Northern Gyeonggi Province enters a super-aged society, the mobility of the elderly has become a critical issue. High rates of license surrender among seniors and limited public transit in rural areas necessitate alternative transport solutions. This study develops an **"Elderly Accessibility Index"** and utilizes **Importance-Performance Analysis (IPA)** to identify areas most in need of transit improvements. Based on this analysis, we propose a tailored **DRT (Demand-Responsive Transport)** route for **Dongducheon City**, the region identified as having the highest priority.
 <br>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mDNnwR7BdaA" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="caption">
+    View the Project Presentation Video
+</div>
+<br>
+
 ### __Problem Statement__
 
 * **Super-Aged Society:** Northern Gyeonggi is rapidly aging, with a significant increase in the elderly population (65+).
