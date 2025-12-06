@@ -3,7 +3,7 @@ layout: page
 title: "Mobility Data Mining: Trajectory Segmentation and Trip Purpose Inference"
 description: Spring 2024
 img: assets/img/proj/15-1.jpeg
-importance: 5
+importance: 6
 category: mobility
 related_publications: false
 giscus_comments: true
