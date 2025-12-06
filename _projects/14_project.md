@@ -30,7 +30,7 @@ Through direct field trips and route analysis, we identified three key pain poin
 
 ### __Solution: Autonomous DRT Shuttle__
 
-We proposed a "Yonsei Urban" service—an autonomous, demand-responsive shuttle connecting major student residential clusters directly to campus buildings.
+We proposed a "Yonsei Urban" service, an autonomous, demand-responsive shuttle connecting major student residential clusters directly to campus buildings.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

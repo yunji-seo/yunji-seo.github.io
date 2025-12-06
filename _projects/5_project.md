@@ -91,7 +91,7 @@ _(Pages 19–26)_
     [Fig. 2] Proposed All-Day Service Route
 </div>
 
-This route connects the main mobility gateways—Sinchon Station and Jeongmun Gate—to key academic buildings and the dormitory.
+This route connects the main mobility gateways (Sinchon Station and Jeongmun Gate) to key academic buildings and the dormitory.
 
 __Rationale:__
 - Survey respondents reported long walking distances from Sinchon Station to steep campus locations.

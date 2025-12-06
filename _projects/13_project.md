@@ -17,7 +17,7 @@ _This project was completed as part of "Mobility Analysis and Planning" course a
 
 ### __Overview__
 
-As Korea approaches a super-aged society (projected 20.6% elderly population by 2025), the mobility rights of the elderly have become a critical social issue. This project examines the limitations of current transportation systems for the elderly—specifically safety concerns and the digital divide—and evaluates the applicability of shared mobility solutions (Ride-sharing and Car-sharing). The final proposal suggests a hybrid, community-driven service model tailored to suburban elderly populations.
+As Korea approaches a super-aged society (projected 20.6% elderly population by 2025), the mobility rights of the elderly have become a critical social issue. This project examines the limitations of current transportation systems for the elderly, specifically safety concerns and the digital divide, and evaluates the applicability of shared mobility solutions (Ride-sharing and Car-sharing). The final proposal suggests a hybrid, community-driven service model tailored to suburban elderly populations.
 <br>
 
 ### __Problem Identification__

@@ -27,7 +27,7 @@ San Francisco is a city of innovation, yet it faces a severe housing crisis that
     [Fig. 1] The stark gap between disability prevalence (26%) and accessible housing stock (<6%) in the U.S.
 </div>
 
-Historically, housing for people with disabilities has been synonymous with exclusion—either through segregation in institutional facilities or physical inaccessibility in the general market.
+Historically, housing for people with disabilities has been synonymous with exclusion, either through segregation in institutional facilities or physical inaccessibility in the general market.
 * **Physical Exclusion:** Lack of elevators, accessible bathrooms, and sensory-friendly features.
 * **Structural Exclusion:** Complex application systems and unaffordable rents.
 * **Social Exclusion:** Isolation from the broader community.
@@ -79,7 +79,7 @@ The success of The Kelsey Civic Center offers key lessons for urban planners and
 * **Cross-Sector Leadership:** It required a robust partnership between non-profits (The Kelsey), developers (Mercy Housing), and city/state agencies.
 * **Integration over Segregation:** Unlike traditional models, it proves that accessible housing should be integrated into dense, lively neighborhoods.
 
-**"True inclusion starts when accessibility is built into the heart of our cities—not added after the fact."**
+**"True inclusion starts when accessibility is built into the heart of our cities, not added after the fact."**
 This project demonstrates that inclusive housing is not just a welfare issue but a fundamental component of sustainable, diverse, and vibrant cities.
 
 <div class="caption">

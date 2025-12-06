@@ -105,7 +105,7 @@ __2. Micro-Interventions for Utility__
 
 This proposal aims to shift the space's function from **"Transit"** to **"Stay."**
 
-By introducing iconic furniture, greenery, and amenities like tables and water fountains, the barren square is reimagined as the **"O-S-D Plaza"**—a healing spot for engineering students, a picnic area for visitors, and a new landmark for the campus. This project demonstrates how small-scale tactical interventions can significantly improve the quality of campus life.
+By introducing iconic furniture, greenery, and amenities like tables and water fountains, the barren square is reimagined as the **"O-S-D Plaza"**, a healing spot for engineering students, a picnic area for visitors, and a new landmark for the campus. This project demonstrates how small-scale tactical interventions can significantly improve the quality of campus life.
 
 <div class="caption">
     <a href="{{ '/assets/pdf/proj/8-1.pdf' | relative_url }}" target="_blank">View the Final Presentation</a>

@@ -49,7 +49,7 @@ We compared arguments from:
 
 __Comparative Case Review__
 
-We reviewed two additional ongoing cases — Gongdeok District 1 and Bangbae Sinsung Villa — to understand how construction cost inflation is affecting smaller redevelopment projects as well (pages 15–16).
+We reviewed two additional ongoing cases (Gongdeok District 1 and Bangbae Sinsung Villa) to understand how construction cost inflation is affecting smaller redevelopment projects as well (pages 15–16).
 <br>
 
 ### __Results__

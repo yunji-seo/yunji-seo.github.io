@@ -43,7 +43,7 @@ Until 2015, each building had fragmented or missing elevated walkways. After the
 
 #### __1. Place Characteristics and Initial Observations__
 
-Despite its central location—300 meters from Jongno 3-ga Station—the elevated walkway felt noticeably quieter than the ground level. Filming at 6:45 p.m. on a Friday, when the area is usually busy, revealed that the elevated level was almost empty while the street below remained active.
+Despite its central location, 300 meters from Jongno 3-ga Station, the elevated walkway felt noticeably quieter than the ground level. Filming at 6:45 p.m. on a Friday, when the area is usually busy, revealed that the elevated level was almost empty while the street below remained active.
 
 This raised a primary question:
 __Why is the elevated walkway significantly less used than expected?__
@@ -51,17 +51,17 @@ __Why is the elevated walkway significantly less used than expected?__
 
 #### __2. Failure Factor 1: Lack of Active Frontage__
 
-Our video showed that segments with active uses—such as the café cluster inside Daerim Sangga—attracted more people.
+Our video showed that segments with active uses, such as the café cluster inside Daerim Sangga, attracted more people.
 However, large portions of the walkway run along blank building walls or industrial back façades, offering no visual interest or reason to remain.
 
-From urban design theory, people prefer environments where they can interact with surroundings—what is called active frontage. Places lacking this tend to feel empty and unsafe, reducing pedestrian activity.
+From urban design theory, people prefer environments where they can interact with surroundings, what is called active frontage. Places lacking this tend to feel empty and unsafe, reducing pedestrian activity.
 
 In the current condition, foot traffic from active zones does not spill over to adjacent buildings because the walkway provides no meaningful programs or attractions.
 <br>
 
 #### __3. Failure Factor 2: Weak Pedestrian Friendliness and Poor Visibility__
 
-A key principle in urban design is natural surveillance—people feel safer when they can see and be seen.
+A key principle in urban design is natural surveillance, as people feel safer when they can see and be seen.
 
 However:
 - From the ground level, it is often difficult to see what is happening on the elevated walkway.
@@ -77,7 +77,7 @@ We analyzed Seoul’s administrative-dong trip purpose data and visualized pedes
 - __East–west movement (Euljiro–Chungmuro axis)__ is significantly stronger than
 - __North–south movement (Jongmyo–Sewoon–Chungmuro axis)__.
 
-In central Jongno–Jung-gu, north–south flows are 40% lower than east–west flows, and much of the north–south volume is attributable to Sejong-daero—meaning Sewoon’s expected user base was overestimated.
+In central Jongno–Jung-gu, north–south flows are 40% lower than east–west flows, and much of the north–south volume is attributable to Sejong-daero, meaning Sewoon’s expected user base was overestimated.
 
 Actual pedestrian counts collected from October to March also showed usage at __only 5–17% of the city’s 2017 projections.__
 
@@ -111,6 +111,6 @@ The walkway offers impressive views of the city, but design and contextual misal
 
 ### __Conclusion__
 
-Our video highlights that successful urban places require more than physical connectivity—they need programs, visibility, social interaction, and realistic assessments of behavioral patterns.
+Our video highlights that successful urban places require more than physical connectivity. They need programs, visibility, social interaction, and realistic assessments of behavioral patterns.
 Future improvements must integrate scientific evaluation, user research and merchant feedback to create a walkway that people naturally choose to use.
 <br>
