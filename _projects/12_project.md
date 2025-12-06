@@ -16,9 +16,9 @@ _This project was completed as part of "Land and Housing Policy" course at Yonse
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://youtu.be/pf5Lg14Dm0g" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pf5Lg14Dm0g" allowfullscreen></iframe>
         </div>
-        </div>
+    </div>
 </div>
 <div class="caption">
     Full Video Youtube Link

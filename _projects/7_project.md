@@ -16,9 +16,9 @@ _This project was completed as part of "The Theory of Urban Design" course at Yo
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://youtu.be/gVY1PEC_7t0" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gVY1PEC_7t0" allowfullscreen></iframe>
         </div>
-        </div>
+    </div>
 </div>
 <div class="caption">
     Full Video Youtube Link
