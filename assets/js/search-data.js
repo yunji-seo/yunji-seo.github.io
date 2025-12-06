@@ -63,6 +63,16 @@ ninja.data = [{
           description: "Fall 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/17_project/";
+            },},{id: "projects-ethe-kelsey-civic-center-a-model-for-inclusive-and-accessible-urban-housing",
+          title: 'EThe Kelsey Civic Center: A Model for Inclusive and Accessible Urban Housing',
+          description: "Spring 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/18_project/";
+            },},{id: "projects-universal-redesign-enhancing-accessibility-in-pachuca-hidalgo-mexico",
+          title: 'Universal Redesign: Enhancing Accessibility in Pachuca, Hidalgo, Mexico',
+          description: "Spring 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/19_project/";
             },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
