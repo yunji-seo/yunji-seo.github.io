@@ -53,6 +53,11 @@ ninja.data = [{
           description: "Spring 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_project/";
+            },},{id: "projects-it-takes-a-village-39-a-critique-of-exclusionary-playgrounds-through-agamben-39-s-lens",
+          title: 'It Takes a Village&amp;#39;: A Critique of Exclusionary Playgrounds through Agamben&amp;#39;s Lens',
+          description: "Fall 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/16_project/";
             },},{id: "projects-analysis-and-revitalization-proposal-for-underutilized-sites-on-the-yonsei-university-international-campus",
           title: 'Analysis and Revitalization Proposal for Underutilized Sites on the Yonsei University International Campus...',
           description: "Fall 2022",
