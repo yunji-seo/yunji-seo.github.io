@@ -2,37 +2,36 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="#"><i>Department of Urban Planning and Engineering</i></a> • <a href="#"><i>Yonsei University</i></a> • <a href="#"><i>Seoul, South Korea</i></a>
+subtitle: <a href="https://cee.mit.edu/"><i>Civil & Environmental Engineering</i></a> • <a href="https://www.mit.edu/"><i>MIT</i></a> • <i>Cambridge, MA</i>
 
 profile:
   align: right
   image: prof_pic2-1.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>Urban Planning and Engineering Undergraduate Student</p>
-  #   <p>Seoul, South Korea</p>
+  image_circular: false
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I am an undergraduate student studying [Urban Planning and Engineering](https://urban.yonsei.ac.kr/urban/index.do) at [Yonsei University](https://www.yonsei.ac.kr) in Seoul, South Korea, currently in my final semester. My research interests lie at the intersection of urban data science, transportation systems, and artificial intelligence, driven by a central question: what makes a better city, and ultimately, a better world? I aim to explore how data-driven and intelligent methods can help us better understand urban dynamics and design more efficient, sustainable, and human-centered cities.
+I am currently an MEng student in [Civil and Environmental Engineering](https://cee.mit.edu/) at the [Massachusetts Institute of Technology](https://www.mit.edu/), specializing in Resilient Infrastructure Systems and Services and advised by [Prof. Cathy Wu](https://cee.mit.edu/people_individual/cathy-wu/). I received my B.S. in Urban Planning and Engineering from [Yonsei University](https://www.yonsei.ac.kr/) in South Korea.
 
-In Spring 2025, I studied at UC Berkeley as a visiting student, where I also worked as a student research assistant at the [California PATH](https://path.berkeley.edu/) on the CCTA Automated Driving Systems (ADS) Demonstration project. My work involved analyzing transportation and safety performance data to evaluate autonomous driving behavior.
+My research interests lie at the intersection of urban mobility, artificial intelligence, and robotics, with a particular focus on building more equitable and human-centered cities. I believe that mobility plays a fundamental role in shaping people's access to opportunities, from education and employment to healthcare and social connections. I am particularly interested in how AI and robotics can help overcome mobility barriers and expand access to opportunities for mobility-disadvantaged populations, including older adults and people with disabilities.
 
-Broadly, I am interested in developing data-centric approaches to interpret urban mobility patterns and enhance the safety, efficiency, and sustainability of city systems. I enjoy combining computational tools, including GIS, Python-based data analysis, and machine learning, with human-centered perspectives from urban planning.
+I am also fascinated by how autonomous systems will reshape the way we move through and interact with urban spaces. What happens when robots become part of our streets and sidewalks? How will pedestrians interact with these systems, and how can we design urban environments that accommodate both humans and autonomous systems? These questions motivate my interest in pedestrian movement, human–robot interaction, and the design of safe, accessible, and equitable urban spaces.
 
-I plan to pursue graduate studies in the United States (M.S./Ph.D.) starting in Fall 2026, aiming to continue research in urban analytics, intelligent transportation systems, and AI-driven urban modeling.
+Previously, I worked as a student research assistant at [California PATH](https://path.berkeley.edu/) at UC Berkeley, where I analyzed transportation and safety performance data for the CCTA Automated Driving Systems (ADS) Demonstration project. I also conducted research at the [MIT Senseable City Lab](https://senseable.mit.edu/), exploring human mobility patterns through large-scale mobility data. These experiences have shaped my interest in combining computational approaches with human-centered perspectives on urban systems.
+
+Broadly, I am interested in leveraging machine learning, optimization, simulation, and large-scale mobility data to better understand and improve the interactions between people, technology, and the built environment. Ultimately, I hope to contribute to the development of intelligent urban systems that expand mobility opportunities and make cities more accessible and equitable for everyone.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
